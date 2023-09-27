@@ -2,6 +2,7 @@
 #include <string>
 #include "BankAccount.h"
 
+//Function definitions
 double BankAccount::getAcctNum()
 {
     return acctNum;
